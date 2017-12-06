@@ -1,2 +1,1 @@
-# first
-premier essai
+ceci est la première édition dans README.md
